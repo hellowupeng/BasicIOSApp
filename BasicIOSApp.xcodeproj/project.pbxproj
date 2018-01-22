@@ -84,8 +84,8 @@
 				E80D8B7B2014B89B00497C29 /* Presentation Layer */,
 				E80D8B7C2014B8EB00497C29 /* Business Layer */,
 				E80D8B7D2014B92300497C29 /* Resources */,
-				E80D8B7E2014B95900497C29 /* Supporting Files */,
 				E80D8B662014B7F100497C29 /* AppDelegate.swift */,
+				E80D8B722014B7F100497C29 /* Info.plist */,
 			);
 			path = BasicIOSApp;
 			sourceTree = "<group>";
@@ -134,14 +134,6 @@
 				E80D8B6D2014B7F100497C29 /* Assets.xcassets */,
 			);
 			path = Resources;
-			sourceTree = "<group>";
-		};
-		E80D8B7E2014B95900497C29 /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				E80D8B722014B7F100497C29 /* Info.plist */,
-			);
-			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
