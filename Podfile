@@ -7,5 +7,6 @@ target 'BasicIOSApp' do
 
   # Pods for BasicIOSApp
   pod 'Alamofire', '~> 4.6.0'
+  pod 'RealmSwift'
 
 end
